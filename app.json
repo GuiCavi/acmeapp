@@ -1,0 +1,8 @@
+{
+  "expo": {
+    "name": "AcmeApp",
+    "slug": "acme-app",
+    "sdkVersion": "22.0.0",
+    "privacy": "public"
+  }
+}

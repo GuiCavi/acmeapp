@@ -1,0 +1,14 @@
+
+
+1 - Instalar NodeJS
+2 - Instalar JDK (Java)
+    - Tem que ter o JAVA_HOME nas variáveis de ambiente
+3 - Instalar o Android Studio
+4 - Instalar o SDK do android (Android 6.0)
+    - Tem que ter o ANDROID_HOME nas variáveies de ambiente
+5 - Rodar o comando 'react-native init NomeDoProjeto'
+6 - Quando acabar, entrar na pasta do NomeDoProjeto
+7 - Rodar o comando 'npm start'
+8 - Rodar o comando 'react-native run-android'
+
+
