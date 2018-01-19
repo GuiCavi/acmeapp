@@ -4,8 +4,9 @@ Code developed for course in FCT/UNESP - Presidente Prudente
 Date: 11/22/2017
 
 ## Installation
-- You can clone the repo
-- Or fork to your github account
+
+* You can clone the repo
+* Or fork to your github account
 
 When all download is done, just run
 
@@ -14,6 +15,7 @@ npm install
 ```
 
 ## Running
+
 Open 2 terminals and run
 
 ```
@@ -37,3 +39,9 @@ react-native log-android
 //or if you want to run in ios
 react-native log-ios
 ```
+
+---
+
+### Created by
+
+> Guilherme Vincenzi Cavichioli
