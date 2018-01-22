@@ -109,7 +109,7 @@ android {
     }
     signingConfigs {
         release {
-            if (System.getenv("BITRISE_BUILD")) {
+            if (System.getenv("BITRISE_IO")) {
                 storeFile file(System.getenv("HOME") + "/keystores/acme-release.keystore")
                 storePassword System.getenv("BITRISEIO_ANDROID_KEYSTORE_PASSWORD")
                 keyAlias System.getenv("BITRISEIO_ANDROID_KEYSTORE_ALIAS")
