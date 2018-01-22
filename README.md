@@ -1,3 +1,5 @@
+[![Build Status](https://www.bitrise.io/app/7c428502def4ba8e/status.svg?token=TgKZFaQx-4Vx5yq3Jsm52w)](https://www.bitrise.io/app/7c428502def4ba8e)
+
 # AcmeApp
 
 Code developed for course in FCT/UNESP - Presidente Prudente
